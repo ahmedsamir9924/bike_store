@@ -5,18 +5,16 @@ Welcome to the Bike Store Database Project! This project is a simple example of 
 - [Introduction](#introduction)
 - [Database Schema](#database-schema)
 - [Database Diagram](#database-diagram)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
 The Bike Store Database Project demonstrates the design and implementation of a relational database to manage various aspects of a bike store, including products, customers, staff, orders, and more.
 
-## Database Schema
+## Schema Diagram
 
-The database schema includes the following tables:
+Here is a schema diagram of the database:
+
+![Schema Diagram](https://github.com/ahmedsamir9924/bike_store/blob/main/bike%20store/SQL-Server-Sample-Database.png)
 - Categories
 - Brands
 - Products
