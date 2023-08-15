@@ -1,5 +1,5 @@
 # bike_store 
-Welcome to the Bike Store Database Project! This project is a simple example of a relational database for managing a bike store's data. It includes tables for categories, brands, products, customers, stores, staffs, orders, and order items.
+This project features a relational database for a bike store, managing products, customers, staff, orders, and more. It utilizes Microsoft SQL Server for database management.
 
 ## Table of Contents
 - [Introduction](#introduction)
