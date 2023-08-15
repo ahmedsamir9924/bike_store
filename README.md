@@ -30,6 +30,6 @@ The database schema includes the following tables:
 
 Below is a visual representation of the database schema:
 
-![Database Diagram]([./images/database_diagram.png](https://github.com/ahmedsamir9924/bike_store/blob/main/bike%20store/database%20diagram.png))
+![Database Diagram](https://github.com/ahmedsamir9924/bike_store/blob/main/bike%20store/database%20diagram.png)
 
 
